@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Tk-FlatCheckbox
-version:             0.07_50
-abstract:            ~
+version:             0.08
+abstract:            an alternative checkbutton implementation for perl/Tk
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.36
 distribution_type:   module
